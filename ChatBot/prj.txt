@@ -1,0 +1,44 @@
+This is project file?
+
+open mail we had 
+
+hello your setup is done 
+the item cost was 1400 it made payment for 1436 where to make changes?
+
+its showing properly
+how to login as admin?
+
+userid : admin
+pass : admin
+
+which is the main code ?
+which i must show in file?
+
+main part of project is negotiation chatbox so
+take code from 
+single.aspx page 
+anything else i need to know ?
+where to make changes in websites and questions 
+?
+no need for changes just fill more details for product so it will be impactful
+where to fill ?
+In admin login >addproducts.aspx
+is the project saved or should i do something?
+
+its save you just need to run 
+
+okay got it 
+can u close everything and open and show?
+okay just note down step 
+
+got it 
+yes tku
+language is c#
+framework is .net 
+anything else used?
+No
+okay got it
+
+okay any issue than ping us on skype nEvon support
+
+disconnecting for now
